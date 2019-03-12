@@ -1,10 +1,6 @@
 # depslib dependency file v1.0
-1552388743 source:d:\unitedremoteproject\c-coding-challenge\main.cpp
+1552389134 source:d:\unitedremoteproject\c-coding-challenge\main.cpp
 	<string>
-	<vector>
 	<stack>
-	<sstream>
 	<iostream>
-	<cstdlib>
-	<typeinfo>
 
